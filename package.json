@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.intmapping",                              
+  "displayName": "Integer Mapping",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Allows to map the integer action possible in game.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2025_03_16_IntegerToDescriptionTable.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

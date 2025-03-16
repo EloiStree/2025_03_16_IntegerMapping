@@ -1,0 +1,62 @@
+﻿INT;LANGUAGE NN; LABEL; DESCRIPTION; MARKDOWN  
+20001;EN;✅ Approval & Completion  
+20002;EN;✅ Task done / Agreement  
+20003;EN;✔️ Checked & confirmed  
+20004;EN;🆗 Okay, got it  
+20005;EN;👍 Approval / Acknowledgment  
+20006;EN;👏 Appreciation / Well done!  
+20007;EN;🎉 Celebration / Success  
+20008;EN;⏳ Time & Urgency  
+20009;EN;⏳ Work in progress  
+20010;EN;⏰ Deadline approaching  
+20011;EN;⚡ Urgent / High priority  
+20012;EN;🔥 Critical / Important issue  
+20013;EN;🚀 Progress & Motivation  
+20014;EN;🚀 Big launch / Moving fast  
+20015;EN;🎯 Target achieved  
+20016;EN;💡 Ideas & Discussions  
+20017;EN;🤔 Thinking / Considering options  
+20018;EN;❓ Question / Clarification needed  
+20019;EN;🤝 Collaboration / Teamwork  
+20020;EN;🔧 Tech & Fixes  
+20021;EN;🛠️ Fixing / Maintenance  
+20022;EN;🐛 Bug detected  
+20023;EN;🚧 Work in progress / Under construction  
+20024;EN;🚨 Warnings & Issues  
+20025;EN;⚠️ Caution / Attention needed  
+20026;EN;🛑 Stop / Blocker  
+20027;EN;🔍 Review needed / Investigate  
+20028;EN;💬 Communication & Engagement  
+20029;EN;📢 Announcement  
+20030;EN;🔔 Reminder / Notification  
+20031;EN;📌 Important note  
+20032;EN;💪 Keep going!  
+20033;EN;💥 Unexpected issue  
+20034;EN;⚡ Powering through  
+20035;EN;📦 Package received/shipped  
+20036;EN;☕ Break time / Coffee chat  
+20037;EN;🍕 Team treat / Celebration  
+20038;EN;📝 Taking notes  
+20039;EN;👀 Checking on something  
+20040;EN;🤷 Not sure / Need more info  
+20041;EN;🚨 Emergency / Immediate action needed  
+20042;EN;🙌 Great job / Excitement  
+20043;EN;🤝 Agreed / Deal  
+20044;EN;🚧 Work in progress / Temporary issue  
+20045;EN;🤔 Needs review  
+20046;EN;💾 Saving files / Backup  
+20047;EN;🍻 Cheers! / Team celebration  
+20048;EN;🍺 Casual drinks / Happy hour  
+20049;EN;🔥 Critical issue  
+20050;EN;⏰ Deadline approaching  
+20051;EN;😂 That was funny!  
+20052;EN;📌 Important! Please check  
+20053;EN;👉 Point to note  
+20054;EN;🔵 (Blue) Can you make this blue?  
+20055;EN;🔴 (Red) Please highlight this in red!  
+20056;EN;🟢 (Green) Can we use green for this section?  
+20057;EN;🟡 (Yellow) Mark this in yellow for visibility  
+20058;EN;🟣 (Purple) Let’s test this color variation  
+20059;EN;⚫ (Black) Can you darken the text?  
+20060;EN;⚪ (White) Add a white background here  
+20061;EN;🎨 Design & Creativity  

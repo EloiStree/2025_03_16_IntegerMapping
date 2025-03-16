@@ -1,0 +1,32 @@
+INT;LANGUAGE NN; LABEL; DESCRIPTION; MARKDOWN
+
+102;Shield On
+202;Shield Off
+103;Alarm Off
+203;Alarm Off
+104;Air leak On
+204;Air leak Off
+
+305;Asteroid Hit High
+205;Asteroid Hit MEDIUM
+105;Asteroid Hit LOW
+
+306;Pipe break Hit High
+306;Motor break Hit High
+
+501; Mission Compete 1
+502; Mission Compete 2
+503; Mission Compete 3
+504; Mission Compete 4
+505; Mission Compete 5
+
+601; Set game time 1 minutes
+602; Set game time 2 minutes
+603; Set game time 3 minutes
+604; Set game time 4 minutes
+605; Set game time 5 minutes
+606; Set game time 6 minutes
+607; Set game time 7 minutes
+608; Set game time 8 minutes
+609; Set game time 9 minutes
+610; Set game time 10 minutes
