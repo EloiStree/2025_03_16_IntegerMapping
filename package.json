@@ -2,7 +2,7 @@
 {                                                                                
   "name": "be.elab.intmapping",                              
   "displayName": "Integer Mapping",                        
-  "version": "2025.03.16",                         
+  "version": "2025.3.16",                         
   "unity": "2018.1",                             
   "unityRelease": "",                             
   "description": "Allows to map the integer action possible in game.",                         
