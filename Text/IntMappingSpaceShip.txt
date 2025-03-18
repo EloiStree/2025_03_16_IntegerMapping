@@ -30,3 +30,25 @@ INT;LANGUAGE NN; LABEL; DESCRIPTION; MARKDOWN
 608; Set game time 8 minutes
 609; Set game time 9 minutes
 610; Set game time 10 minutes
+
+
+700; Color Red
+701; Color Green
+702; Color Blue
+703; Color Orange
+704; Color Yellow
+705; Color Purple
+706; Color Pink
+707; Color Cyan
+708; Color White
+710; Color Intensity 0%
+711; Color Intensity 10%
+712; Color Intensity 20%
+713; Color Intensity 30%
+714; Color Intensity 40%
+715; Color Intensity 50%
+716; Color Intensity 60%
+717; Color Intensity 70%
+718; Color Intensity 80%
+719; Color Intensity 90%
+720; Color Intensity 100%
